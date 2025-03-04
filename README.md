@@ -1,6 +1,7 @@
 # HyperSwap Token List
 
 This repository is dedicated to the list of tokens registered on the HyperSwap exchange. It serves as the central place where tokens can be added, allowing them to be displayed and used on the DApp, including showing their logos.
+If you're not familiar with github pull request system you can fill this form and an issue will be created : [List your token in easily here](https://tally.so/r/3Nd5BN)
 
 ## How to Add a Token
 
