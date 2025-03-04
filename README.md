@@ -3,6 +3,19 @@
 This repository is dedicated to the list of tokens registered on the HyperSwap exchange. It serves as the central place where tokens can be added, allowing them to be displayed and used on the DApp, including showing their logos.
 If you're not familiar with github pull request system you can fill this form and an issue will be created : [List your token easily here](https://tally.so/r/3Nd5BN)
 
+### Requirements
+
+In order to be listed, you should meet at least the following conditions:
+
+**Transparency and Documentation**
+- Make the smart contract public or provide detailed documentation (e.g., Whitepaper, official website).
+- List the token on tracking platforms such as CoinGecko or CoinMarketCap to improve visibility.
+
+**Community and Communication**
+- Build an active community on platforms like Telegram, Discord, and X (Twitter) to engage with users (min 300 followers on X)
+- Be transparent about the token’s purpose and tokenomics, ensuring clear explanations of its utility and supply mechanics.
+- Respond to community questions regularly to establish credibility and trust among investors and users.
+
 ## How to Add a Token
 
 If you want to add a new token to the list, follow these steps:
