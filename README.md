@@ -11,6 +11,9 @@ In order to be listed, you should meet at least the following conditions:
 - Make the smart contract public or provide detailed documentation (e.g., Whitepaper, official website).
 - List the token on tracking platforms such as CoinGecko or CoinMarketCap to improve visibility.
 
+**Liquidity Requirements**
+- The associated liquidity pool must maintain a minimum Total Value Locked (TVL) of $50,000, ensuring baseline capital efficiency and market depth.
+
 **Community and Communication**
 - Build an active community on platforms like Telegram, Discord, and X (Twitter) to engage with users (min 300 followers on X)
 - Be transparent about the token’s purpose and tokenomics, ensuring clear explanations of its utility and supply mechanics.
