@@ -7,17 +7,24 @@ If you're not familiar with github pull request system you can fill this form an
 
 In order to be listed, you should meet at least the following conditions:
 
-**Transparency and Documentation**
-- Make the smart contract public or provide detailed documentation (e.g., Whitepaper, official website).
-- List the token on tracking platforms such as CoinGecko or CoinMarketCap to improve visibility.
+1. Transparency and Documentation
+- The smart contract must be publicly accessible or accompanied by detailed technical documentation (e.g., whitepaper, GitHub repo, or official website).
 
-**Liquidity Requirements**
+- The token must be listed on reputable tracking platforms such as CoinGecko or DexScreener to improve visibility and trust.
+
+- A token logo must be provided in high resolution (SVG or PNG preferred) for proper display across platforms.
+
+2. Liquidity Requirements
 - The associated liquidity pool must maintain a minimum Total Value Locked (TVL) of $50,000, ensuring baseline capital efficiency and market depth.
 
-**Community and Communication**
-- Build an active community on platforms like Telegram, Discord, and X (Twitter) to engage with users (min 300 followers on X)
-- Be transparent about the token’s purpose and tokenomics, ensuring clear explanations of its utility and supply mechanics.
-- Respond to community questions regularly to establish credibility and trust among investors and users.
+3. Community and Communication
+- Projects should have an active and growing community on at least one major platform: Telegram, Discord, or X (Twitter).
+
+- A minimum of 300 followers on X (Twitter) is required.
+
+- Teams must provide transparent information about the token’s utility, tokenomics, and overall purpose.
+
+- Maintaining consistent, honest communication with users and responding to community inquiries is expected to build trust and credibility.
 
 ## How to Add a Token
 
