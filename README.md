@@ -15,7 +15,7 @@ In order to be listed, you should meet at least the following conditions:
 - A token logo must be provided in high resolution (SVG or PNG preferred) for proper display across platforms.
 
 2. Liquidity Requirements
-- The associated liquidity pool must maintain a minimum Total Value Locked (TVL) of $50,000, ensuring baseline capital efficiency and market depth.
+- The associated liquidity pool must maintain a minimum Total Value Locked (TVL) of $10,000, ensuring baseline capital efficiency and market depth.
 
 3. Community and Communication
 - Projects should have an active and growing community on at least one major platform: Telegram, Discord, or X (Twitter).
